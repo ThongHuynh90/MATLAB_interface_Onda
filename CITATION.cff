@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB_interface_Onda
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thong
+    family-names: Huynh
+    email: htt990@gmail.com
+    affiliation: USN
+    orcid: 'https://orcid.org/0000-0001-8263-1647'
